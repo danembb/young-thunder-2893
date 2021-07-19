@@ -262,7 +262,7 @@
           1,
           null,
           1,
-          2,
+          0,
           null,
           null
         ]
@@ -281,8 +281,23 @@
           1,
           null
         ]
+      },
+      "/Users/heartbeat/turing/2module/ic_folder/young-thunder-2893/app/controllers/studios_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/turing/2module/ic_folder/young-thunder-2893/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1626716071
+    "timestamp": 1626716898
   }
 }
